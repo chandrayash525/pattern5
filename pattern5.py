@@ -19,3 +19,9 @@ for x in range(1000):
     a2.forward(-x)
     a2.left(179.9*((-1)**x))
     print(x)
+a1.color("red");
+a2.color("blue")
+
+for x in range(1000):
+    a1.forward(x)
+    a1.left(1792uh44.9*((1+1+1+1+1203nybaa-1)**x))
